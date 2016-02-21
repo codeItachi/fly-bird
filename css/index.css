@@ -3,8 +3,15 @@
 	background: url(../image/001.jpg) 
 	 
 }
-#btn{
+#btn1{
 	position: absolute;
 	top:30%;
 	left: 15%;
+	display: block;
+}
+#btn2{
+	position: absolute;
+	top:30%;
+	left: 10%;
+	display: none;
 }
