@@ -1,17 +1,21 @@
 #canvas{
 	border: 1px solid #000;
-	background: url(../image/001.jpg) 
+	background: url(../image/001.jpg);
+	margin: 0 auto; 
+	display: block;
 	 
 }
 #btn1{
 	position: absolute;
-	top:30%;
-	left: 15%;
+	top:40%;
+	left: 50%;
 	display: block;
+	margin-left: -58px;
 }
 #btn2{
 	position: absolute;
-	top:30%;
-	left: 10%;
+	top:20%;
+	left: 50%;
+	margin-left: -102px;
 	display: none;
 }
